@@ -21,7 +21,7 @@ const external_openai_namespaceObject = require("openai");
 ;// CONCATENATED MODULE: ./pages/api/generate.js
 
 const configuration = new external_openai_namespaceObject.Configuration({
-    apiKey: "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"
+    apiKey: "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"
 });
 const openai = new external_openai_namespaceObject.OpenAIApi(configuration);
 const basePromptPrefix = `
